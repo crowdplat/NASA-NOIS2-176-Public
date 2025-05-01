@@ -1,0 +1,6 @@
+flask
+requests
+pytak
+python-dotenv==1.0.1
+cryptography==44.0.2
+loguru
