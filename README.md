@@ -1,4 +1,4 @@
-# Fire Boundary Detection Demo
+# Fire Boundary Detection
 
 A lightweight, **pure‑Python** pipeline for running a fire-boundary detection model (exported to ONNX) on still images.  
 Everything is self‑contained: no Torch in the hot path, only **OpenCV + NumPy + ONNX Runtime**.
@@ -123,4 +123,4 @@ Inline comments explain every micro‑optimisation.
 ---
 
 
-**Happy fire boundari detecting!**
+**Happy fire boundary detecting!**
